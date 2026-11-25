@@ -16,6 +16,7 @@ Personagem 3D animado (Three.js) que conta histórias em vídeo vertical 1080×1
 - Boca sincronizada com o texto (abre mais em vogais, fecha em M/B/P)
 - Pisca, mexe a cabeça, respira e gesticula com os braços a cada frase
 - Sobrancelhas sobem em frases com `!` ou `?`
+- Detalhes: dedos e polegar nas mãos, cotovelos que dobram, colarinho, botões, cinto, tênis com cadarço, íris, lábios, dentes, orelhas, sardas, barba e boné
 - Legendas estilo TikTok, palavra atual destacada em amarelo
 - Câmera que se aproxima devagar ao longo da história
 
